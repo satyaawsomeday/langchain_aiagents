@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
